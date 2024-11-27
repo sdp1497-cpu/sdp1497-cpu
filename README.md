@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m **@sdp1497-cpu** (Sonia Patel)
+- 👋 Hi, I’m **Sonia Patel**
 - 👀 I’m interested in **data science, machine learning, financial analysis, and business strategy development.** I love solving real-world problems using data-driven insights.
 - 🌱 I’m currently learning **Cloud(AWS), AutoML techniques, and expanding my skills in data science.**
 - 💞️ I’m looking to collaborate on **projects involving data analysis, building machine learning models, reporting automation, predictive modeling, and financial optimization.** Always excited to work on innovative data projects!
